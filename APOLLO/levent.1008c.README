@@ -1,0 +1,23 @@
+
+*** Event catalog ***
+
+The all-inclusive version of the Apollo Passive Seismic Experiment long period event catalog, combining all the earlier periodic versions of the event catalogs, were originally published in 1981 by the Galveston Geophysics Laboratory of the University of Texas at Austin, Marine Science Institute as:
+
+Nakamura, Y., G. V. Latham, H. J. Dorman and J. E. Harris, Passive seismic experiment long-period event catalog, Final version, 1969 day 202 - 1977 day 273, 314 pp., Galveston Geophysics Laboratory, Galveston, 19 June, 1981.
+
+and was later assigned a designation of UTIG Technical Report No. 18.  
+
+It has since been revised several times as new identifications of earlier unidentified events become available.  The current version, updated on October 2, 2008, is available as a text file named levent.1008. A minor revision was made in December 2018 named levent.1008c.
+
+Event catalog entries are explained in file levent.1008c.README2
+A minor set of corrections of December 2018 is described in EvCatEntries.1008c.
+
+
+*** Data ***
+
+The raw data from the Apollo Passive Seismic Experiment, originally on 12,000+ real-to-real tapes, were restored on 80 8-mm cassette tapes in the early 1990s.  The contents of these tapes and their formats are described in UTIG Technical Report No. 118, a pdf copy of which is available here as TechRept118.pdf.
+
+Also included in this data set are the full ALSEP data from 1 March 1976 to 30 September 1977 and the seismology and meteorology data from Viking lander 2 on Mars in the 1976-1978 period.
+
+These data are archived at the IRIS DMC (Incorporated Research Institutions for Seismology, Data Management Center; http://www.iris.edu/dms/dmc/), and are publicly available.
+

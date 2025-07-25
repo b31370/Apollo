@@ -1,0 +1,10 @@
+Number 001
+meteoroid impact
+year     1976
+day      319
+date     1976-11-14
+time     23:16
+lat.     23.8
+long.   -73.9
+Distance from stations(km) 1697(S12); 2100(S15); 2826(s16)
+
